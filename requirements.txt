@@ -1,0 +1,11 @@
+beautifulsoup4
+camelot-py
+Flask
+ghostscript
+gunicorn
+lxml
+numpy
+pandas
+PyPDF2
+requests
+opencv-python-headless
